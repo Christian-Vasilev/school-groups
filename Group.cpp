@@ -24,7 +24,6 @@ Group::Group() {}
  * @return bool
  */
 bool Group::assignMembersToGroup(Student* member, unsigned sizeOfGroup) {
-    Student current;
     bool result = false;
 
     for (int i = 0; i < sizeOfGroup; i++) {

@@ -32,7 +32,5 @@ int main() {
 
     leo.getIdea()->printOut();
 
-
-
     return 0;
 }
